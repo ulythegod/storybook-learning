@@ -162,7 +162,7 @@ code {
   background-color: rgb(180, 221, 223);
   width: 490px;
   margin: 0px;
-  padding: 20px;
+  /*padding: 20px;*/
 }
 
 .lists-show {
