@@ -165,10 +165,6 @@ code {
   padding: 20px;
 }
 
-.list-item .title input {
-  background-color: red;
-}
-
 .lists-show {
   display: flex;
   flex-direction: column;
