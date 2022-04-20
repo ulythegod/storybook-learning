@@ -6,6 +6,8 @@
     "@reduxjs/toolkit": "^1.8.1",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/user-event": "^13.5.0",
+    "msw": "^0.39.2",
+    "msw-storybook-addon": "^1.6.3",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-redux": "^8.0.0",
@@ -62,5 +64,8 @@
     "@storybook/testing-react": "^1.2.4",
     "@testing-library/react": "^13.1.1",
     "webpack": "^5.72.0"
+  },
+  "msw": {
+    "workerDirectory": ""
   }
 }

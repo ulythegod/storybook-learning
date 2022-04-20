@@ -157,3 +157,18 @@ code {
   font-weight: 600;
   font-size: 25px;
 }
+
+.title-page {
+  background-color: rgb(180, 221, 223);
+  width: 490px;
+  margin: 0px;
+  padding: 20px;
+}
+
+.lists-show {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
